@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說妙吉祥瑜伽大教金剛陪囉輪觀想成就儀軌經
+#+DATE: 2015-08-30 20:33:09.540189
+#+PROPERTY: JUAN 0
